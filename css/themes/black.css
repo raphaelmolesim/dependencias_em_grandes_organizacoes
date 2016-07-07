@@ -27,17 +27,10 @@ body {
   color: #324228; }
 
 .reveal em {
-	font-family: "Bebas Neue", Helvetica, sans-serif;
-	font-style: normal !important;
-	font-weight: bold;
-	color: #8A2BE2;
+	background-color: #D7433C;
+	color: #FFF;
+	padding: 0px 5px;
 }
-
-/*.reveal span {
-  letter-spacing: 32px;
-	font-weight: lighter;
-	
-}*/
 
 ::selection {
   color: #fff;
@@ -100,8 +93,7 @@ body {
   font-weight: bold;
   color: #F0E68C; }
 
-.reveal em {
-  font-style: italic; }
+
 
 .reveal ol,
 .reveal dl,
